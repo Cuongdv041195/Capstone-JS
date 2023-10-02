@@ -1,0 +1,19 @@
+header {
+
+nav{
+    background: rgba(0, 0, 0, 0.8);
+
+    a {
+        color: #fff;
+      }
+  
+      .nav-link {
+        transition: 0.3s all ease-in-out;
+  
+        &:hover {
+          transform: scale(1.15);
+        }
+      }
+}
+
+}
